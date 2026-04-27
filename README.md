@@ -10,3 +10,5 @@ The data is based on state-wise sales in the United States.
 Tools Used:
 * Power BI
 * Excel
+
+The data was sourced from the Internet.
