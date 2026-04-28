@@ -3,4 +3,4 @@ After building the dashboard, it was found that
 * California had the larget sales.
 * New York had the highest profit.
 * Washington had the lowest sales.
-* Overall sales was $ 5.18 Million
+* Overall Netprofit was higher in Arizona.
