@@ -1,0 +1,5 @@
+After building the dashboard, it was found that
+
+* California had the larget sales.
+* New York had the highest profit.
+* Washington had the lowest sales.
